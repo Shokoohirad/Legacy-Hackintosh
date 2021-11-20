@@ -3,6 +3,11 @@
 با سلام به دوستان عزیز؛ من این پروژه را به شکل تفریحی انجام دادم ولی در نهایت شما می‌توانید از آن به عنوان یک کامپیوتر برای تجربه‌ی سیستم‌عامل macOS و یا انجام کارهای روزمره استفاده کنید.
 
 
+محیط دسکتاپMac OS X 10.9.5 نصب شده روی این سخت‌افزار
+
+![](https://raw.githubusercontent.com/OneArtist/Legacy-Hackintosh/main/Desktop_Image_OSX-10.9.5.jpeg)
+
+
 ### سخت‌افزار مورد استفاده در این پروژه
 CPU: Intel Pentium G850 ([+](https://ark.intel.com/content/www/us/en/ark/products/53491/intel-pentium-processor-g850-3m-cache-2-90-ghz.html))  
 Motherboard: Gigabyte GA-H61M-S2P ([+](https://www.gigabyte.com/Motherboard/GA-H61M-S2P-rev-20))  
