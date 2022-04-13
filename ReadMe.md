@@ -5,7 +5,7 @@
 
 محیط دسکتاپ Mac OS X 10.9.5 نصب شده روی این سخت‌افزار
 
-![](https://raw.githubusercontent.com/OneArtist/Legacy-Hackintosh/main/Desktop_Image_OSX-10.9.5.jpeg)
+![](https://github.com/Shokoohirad/Legacy-Hackintosh/raw/main/Desktop_Image_OSX-10.9.5.jpeg)
 
 
 ### سخت‌افزار مورد استفاده در این پروژه
@@ -29,27 +29,27 @@ Power: Green 500W
 **بوت‌لودر مناسب برای پردازنده‌های سری Pentium G**  
 در این پروژه دو فایل Zip از بوت‌لودر برای دانلود وجود دارد. اگر کامپیوتر شما از پردازنده‌های نسل ۲ و ۳ Pentium استفاده می‌کند باید از بوت‌لودری که برای این پردازنده‌ها آماده کرده‌ام استفاده کنید.
 
-**[دانلود](https://github.com/OneArtist/Legacy-Hackintosh/blob/main/Pentium.zip)**
+**[دانلود](https://github.com/Shokoohirad/Legacy-Hackintosh/blob/main/Pentium.zip)**
 
 **بوت‌لودر مناسب برای پردازنده‌های سری Core i نسل Snady Bridge و Ivy Bridge**  
 پیشنهاد می‌کنم حتماً از این سری از پردازنده‌ها در این هکینتاش استفاده کنید. پردازنده‌های Pentium به دلیل محدودیت‌ها و عدم پشتیبانی به شکل Naitve در سیستم‌عامل macOS ممکن است در ارتقا به نسخه‌ی کاتالینا شما را با مشکل مواجه کنند. این مشکل را با استفاده از پردازنده‌های سری Core i نخواهید داشت.
 
-**[دانلود](https://github.com/OneArtist/Legacy-Hackintosh/blob/main/Core%20i%20-%20Ivy%20Bridge.zip)**
+**[دانلود](https://github.com/Shokoohirad/Legacy-Hackintosh/blob/main/Core%20i%20-%20Ivy%20Bridge.zip)**
 
 ### تنظیمات BIOS
 قبل از هرچیزی BIOS مادربرد را به آخرین نسخه ارتقا دهید. سپس طبق مواردی که در ادامه ذکر شده بخش‌های مختلف BIOS را تنظیم کنید.
 
-![](https://github.com/OneArtist/Legacy-Hackintosh/blob/main/Images/bios/210714121645.jpg)
+![](https://github.com/Shokoohirad/Legacy-Hackintosh/blob/main/Images/bios/210714121645.jpg)
 
-![](https://github.com/OneArtist/Legacy-Hackintosh/blob/main/Images/bios/210714121703.jpg)
+![](https://github.com/Shokoohirad/Legacy-Hackintosh/blob/main/Images/bios/210714121703.jpg)
 
-![](https://github.com/OneArtist/Legacy-Hackintosh/blob/main/Images/bios/210714121717.jpg)
+![](https://github.com/Shokoohirad/Legacy-Hackintosh/blob/main/Images/bios/210714121717.jpg)
 
-![](https://github.com/OneArtist/Legacy-Hackintosh/blob/main/Images/bios/210714121730.jpg)
+![](https://github.com/Shokoohirad/Legacy-Hackintosh/blob/main/Images/bios/210714121730.jpg)
 
-![](https://github.com/OneArtist/Legacy-Hackintosh/blob/main/Images/bios/210714121738.jpg)
+![](https://github.com/Shokoohirad/Legacy-Hackintosh/blob/main/Images/bios/210714121738.jpg)
 
-![](https://github.com/OneArtist/Legacy-Hackintosh/blob/main/Images/bios/210714121753.jpg)
+![](https://github.com/Shokoohirad/Legacy-Hackintosh/blob/main/Images/bios/210714121753.jpg)
 
 # تماس با من
 اگر سوال و یا مشکلی در راه‌اندازی هکینتاش روی این سخت‌افزار داشتید می‌توانید از طریق [صفحه‌ی زیلینک](https://zil.ink/shokoohi) با من در ارتباط باشید.
